@@ -69,7 +69,7 @@ npm run start
 
 
 ## detach session 
-## Ctrl A+D
+## Press Ctrl A+D
 
 
 The bot will automatically:
