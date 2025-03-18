@@ -68,7 +68,7 @@ npm run start
 ```
 
 
-## detach session 
+## Detach session 
 ## Press Ctrl A+D
 
 
