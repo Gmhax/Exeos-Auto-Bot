@@ -55,6 +55,11 @@ http://username:password@host:port
 socks5://username:password@host:port
 ```
 
+### Create session
+```bash
+screen -S Exeos
+```
+
 ## Usage
 
 Start the bot:
