@@ -67,6 +67,11 @@ Start the bot:
 npm run start
 ```
 
+
+## detach session 
+## Ctrl A+D
+
+
 The bot will automatically:
 1. Connect your extensions to the ExeOS network
 2. Perform regular liveness checks
